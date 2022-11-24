@@ -1,0 +1,14 @@
+FILE DI TESTO CONTENENTE ISTRUZIONI PER POTER VISIONARE IL FILE SORGENTE ISBI.vpp
+
+Per poter visionare il progetto completo (formato file .vpp), occorre utilizzare il programma Visual Paradigm. Una volta installato,
+occorre aprire il file presente nella cartella "/Sorgenti .vpp .xlsx". Una volta aperto il file ISBI.vpp, sul programma Visual Paradigm
+occorre spostarsi nella sezione View -> Project Browser e pigiare il diagramma che si vuole visionare.
+
+Per alcuni diagrammi, quali Business Process Map ed i moduli ES, abbiamo utilizzato Excel data la facilità di utilizzo nel rappresentare
+tali sotto forma matriciale.
+
+Nel caso in cui non è possibile aprire alcuni file, lasciamo, nella cartella "/Immagini", ogni diagramma utilizzato nella tesina.
+
+Il nome della tesina è "Dematerializzazione - Romano M63001315 - Riccio M63001314 - Cirillo M63001293.pdf", è compresa di tutti
+i file elencati in precedenza ma le cui foto potrebbero essere non leggibili in qualità ottima in quanto son tabelle di grosse
+dimensioni. Nel caso sono illegibili, ricorrere alle foto.
